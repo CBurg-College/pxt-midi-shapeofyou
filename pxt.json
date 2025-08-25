@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-midicontroller": "github:cburg-college/pxt-midicontroller#c7ccecfa759a59afba2e8d4df2af567783379d2b"
+        "pxt-midicontroller": "github:cburg-college/pxt-midicontroller#b4d88e4182a7d815ffda290e8288bd5d1b9fc7d8"
     },
     "files": [
         "main.blocks",
