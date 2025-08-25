@@ -1,0 +1,26 @@
+{
+    "name": "pxt-midi-shapeofyou",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-midicontroller": "github:CBurg-College/pxt-midicontroller#be3cadbaf2c12277e9dbcec9469fee69c3b25fc6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.16",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
